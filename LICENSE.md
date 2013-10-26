@@ -6,4 +6,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 All audio clips are property of [forvo.com][forvo].
 
-[forvo]: www.forvo.com/license
+[forvo]: http://www.forvo.com/license
